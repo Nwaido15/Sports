@@ -1,4 +1,4 @@
-# scrape_nfl_pfr_data
+# Sports
 Stats
 ## Credits / Sources
 Steve Morse - https://stmorse.github.io/journal/pfr-scrape-python.html
