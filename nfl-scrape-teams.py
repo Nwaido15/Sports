@@ -6,7 +6,7 @@ from bs4 import Comment
 
 # Scrape player value data from PFR
 url = 'https://www.pro-football-reference.com'
-startyear = 2020
+startyear = 2023
 endyear = 2010
 
 reccount = 0
